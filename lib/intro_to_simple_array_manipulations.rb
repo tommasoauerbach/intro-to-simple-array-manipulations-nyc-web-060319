@@ -31,5 +31,5 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, tide)
-  array.insert(1,tide)
+  array.insert(4,tide)
 end
