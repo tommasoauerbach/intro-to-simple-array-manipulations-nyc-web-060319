@@ -11,6 +11,5 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  array = ["hello", "today", "return"]
-  array.pop(-1)
+  array.pop(2)
 end
