@@ -33,3 +33,7 @@ end
 def using_insert(array, tide)
   array.insert(4,tide)
 end
+
+def using_uniq(array)
+  array.uniq
+end
