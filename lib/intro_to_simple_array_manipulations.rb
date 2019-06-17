@@ -12,5 +12,5 @@ end
 
 def using_pop(array)
   array = ["hello", "today", "return"]
-  last_item = array.pop
+  array.pop
 end
